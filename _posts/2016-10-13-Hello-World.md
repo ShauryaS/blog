@@ -1,0 +1,12 @@
+---
+layout: post
+title: Hello World
+---
+
+Hello world! This is a test blog post to see whether my blog works or not. 
+
+An About Me blog post will be posted in the next couple days where I will talk about who I am, my reasons for starting my own blog, and what the main topics of my blog will focus on. 
+
+Thanks for reading this post!
+
+-Shaurya Srivastava
