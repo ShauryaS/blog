@@ -6,7 +6,7 @@
 name: Shaurya Srivastava
 
 # Short bio or description (displayed in the header)
-description: Junior at Monta Vista High School. Aspiring Business Entrepreneur, Boy Scout, Martial Artist, Coder, Problem Solver. 
+description: I'm a Junior at Monta Vista High School, graduating in 2018. Aspiring Business Entrepreneur, Boy Scout, Martial Artist, Coder, Problem Solver. 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/13926479?v=3&s=400
@@ -27,7 +27,7 @@ footer-links:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: shauryas481
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: shaurya-srivastava # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
