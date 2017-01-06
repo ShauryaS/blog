@@ -11,11 +11,7 @@ Hello everyone. I will start of this blog post by talking about who I am. My nam
 
 <h2>Why does this blog exist and what is its future?</h2>
 
-This blog exists so that I can spread my thoughts to people. Over the past couple years, I have had a lot of thoughts just building up in my mind and I wanted to have a place where I could write these thoughts down and share them with the world. I will mostly focus on writing my thoughts on but not limited to Technology, Business, Politics, and Sports. This is more of a casual blog than a formal blog. Feel free to comment and start a discussion on any one of my blog posts as I am also interested in knowing all of your views on the topic my Blog posts explore. My goal is to upload one blog post a day on a topic that is relevant to the day itself. Hope you all enjoy reading my blog posts and contribute to discussions about the topics. 
-
------------------------------------------------------------------------------------
-
-Look out for my next blog post on my views for the third Presidential Debate of 2016 between Clinton and Trump. It should be up by Wednesday or Thurday night.
+This blog exists so that I can spread my thoughts to people. Over the past couple years, I have had a lot of thoughts just building up in my mind and I wanted to have a place where I could write these thoughts down and share them with the world. I will mostly focus on writing my thoughts on but not limited to Technology, Business, Politics, and Sports. This is more of a casual blog than a formal blog. Feel free to comment and start a discussion on any one of my blog posts as I am also interested in knowing all of your views on the topic my Blog posts explore. My goal is to upload one blog post a month (if possible) on a topic that is relevant to the day itself. Hope you all enjoy reading my blog posts and contribute to discussions about the topics. 
 
 -----------------------------------------------------------------------------------
 
